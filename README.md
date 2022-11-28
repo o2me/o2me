@@ -2,7 +2,7 @@
 
 Я изучаю Data Analyst. 
 
-SQL / Python.
+SQL / Python / Pandas / Google colab / Jupyter Notebook.
 
 ### Обо мне: - Junior
 * 🌄 Начало обучения: 14.07.2022
