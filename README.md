@@ -5,7 +5,10 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://hh.ru/resume/79006687ff09d8f58c0039ed1f516c74314f49">
-    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=&logoColor=white" alt="HeadHunter Badge"/>
+  </a>
+    <a href="https://komarev.com/ghpvc/?username=o2me">
+    <img src="https://img.shields.io/badge/P.Views-lightgrey?style=for-the-badge&logo=&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 
