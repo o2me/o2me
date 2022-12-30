@@ -19,7 +19,7 @@
 
 ### Hard-skills. Manual
 
-- Написание ясного и работающего кода на Python ( EDA, NumPy, Pandas, Seaborn )
+- Написание ясного и работающего кода на Python ( NumPy, Pandas, Seaborn )
 - Писать и выполнять базовые запросы в SQL
 - Формулировать и проверять гипотезы
 
