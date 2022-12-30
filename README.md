@@ -1,4 +1,4 @@
-## Добрый день! 🙌🏻
+
 
 <div id="badges">
   <a href="https://www.kaggle.com/mori22">
@@ -9,22 +9,30 @@
   </a>
 </div>
 
-
+---
 
 ### Обо мне: - Junior
 * 🌄 Начало обучения: 14.07.2022
 * 🌅 Прошёл профессиональную переподготовку в федеральном государственнном образовательном бюджетном учереждении высшего образования 
 "Финансовый университет при Правительстве Российской Федерации" по программе "Аналитик данных". Прохожу курсы на Udemy, Яндекс.Практикум
-* 🌆 Люблю получать и осваивать новые знания
-* 🌇 ...
+* 🌆 Стремлюсь выработать профессиональные навыки
 
 ### Hard-skills. Manual
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="питон" width="35" height="35" style="max-width: 100%;">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35" style="max-width: 100%;"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35" style="max-width: 100%;">
 
 - Написание ясного и работающего кода на Python ( EDA, NumPy, Pandas, Seaborn )
 - Писать и выполнять базовые запросы в SQL
 - Формулировать и проверять гипотезы
 
+### Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+</div>
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=o2me-github-username&style=flat-square&color=blue" alt=""/>
