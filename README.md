@@ -29,7 +29,7 @@
   <img src="https://github.com/o2me/icons/blob/main/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/o2me/icons/blob/main/sql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/o2me/icons/blob/main/%D1%81olaboratory.png" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/o2me/icons/blob/main/kaggle.png" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/o2me/icons/blob/main/Kaggle.png" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/o2me/icons/blob/main/pandas.png" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
 </div>
 
